@@ -1,0 +1,1 @@
+bin/delayprint 1 >> output/test.32.output; bin/myerror | bin/delayprint 2 >> output/test.32.output

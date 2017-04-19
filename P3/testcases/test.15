@@ -1,0 +1,1 @@
+bin/helloworld 2 |& /usr/bin/tee

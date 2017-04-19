@@ -1,0 +1,1 @@
+/bin/nice -n 15 bin/niceprint 15 ; /bin/nice -n 1 bin/niceprint 1

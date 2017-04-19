@@ -1,0 +1,1 @@
+bin/myerror | bin/delayprint 1 > output/test.31.output

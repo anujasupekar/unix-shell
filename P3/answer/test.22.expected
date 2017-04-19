@@ -1,0 +1,2 @@
+echo is a shell built-in
+/bin/echo
